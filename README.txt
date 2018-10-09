@@ -55,3 +55,18 @@ https://github.com/zcyzcy88/TagTable/blob/master/1161375397.rar
 For CLI favor & program friendly
 - [A_plain_text](https://github.com/zcyzcy88/TagTable/blob/master/A/plain.txt)
 - [B_plain_text](https://github.com/zcyzcy88/TagTable/blob/master/B/plain.txt)
+
+---
+
+For Japanese ⇔ English:
+(https://github.com/zcyzcy88/TagTable/issues/2)
+
+https://sleazyfork.org/zh-TW/scripts/1601-pixiv-translation-plus/code
+https://docs.google.com/spreadsheets/d/1SYkJFdSKbbNADYlDtOl6C4_yX6nA-GsX9FMNIwwUnL4/edit#gid=1
+http://89.223.37.135/ptp.html
+https://danbooru.donmai.us/forum_topics/14673
+https://github.com/evazion/translate-pixiv-tags
+
+https://greasyfork.org/en/scripts/23109-pixiv-tag-translation-replacement
+https://en-dic.pixiv.net/a/Tag
+https://www.pixiv.help/hc/en-us/articles/360002987773-What-are-the-rules-regarding-translations-
